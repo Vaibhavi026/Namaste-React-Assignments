@@ -1,0 +1,33 @@
+{
+  "name": "app-inception",
+  "version": "1.0.0",
+  "description": "Namaste react course",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhavi026/Namaste-React-Assignments.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Vaibhavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhavi026/Namaste-React-Assignments/issues"
+  },
+  "homepage": "https://github.com/Vaibhavi026/Namaste-React-Assignments#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
